@@ -19,10 +19,7 @@
   📆 September 2024  
 
 
-
-
-  
-  ##main projects are:
+  ## 💻main projects
   
   ### 🖼️Object detection by comptuter vision
   goal: Automatic detection of ojects on satelitary images
