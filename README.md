@@ -1,11 +1,9 @@
- 👋 Hi, Welcome on my GitHub!
- 
-  I am a wagon alumni recently completed data science | AI bootcamp. I am working on hands-on projects to build my kwnoledge on this field. 
-  Transitioning from a dedicated science educator to a passionate data scientist,
-  I bring a unique perspective that combines analytical rigor with effective communication.
+# Welcome to My GitHub Profile! 👋
 
+I am a Le Wagon alumnus who recently completed a Data Science | AI bootcamp. I am working on hands-on projects to build my knowledge in this field. Transitioning from a dedicated science educator to a passionate data scientist, I bring a unique perspective that combines analytical rigor with effective communication.
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -13,21 +11,27 @@
 
 ## 🎓 Certifications & Education
 
-- ![Le Wagon](https://img.shields.io/badge/Le%20Wagon-FA2D48?style=for-the-badge)
-  **[Le Wagon Data Science Bootcamp](https://www.lewagon.com/data-science-course)**  
-  📍 Focus on data vizualisation , Python,SQL, Machine Learning, Deep learning
-  📆 September 2024  
+- **Le Wagon Data Science Bootcamp**  
+  Focus on data visualization, Python, SQL, Machine Learning, Deep Learning  
+  Completed in September 2024
 
+## 📝 Main Projects
 
-  ## 💻main projects
-  
-  ### 🖼️Object detection by comptuter vision
-  goal: Automatic detection of ojects on satelitary images
-  🔗 [Code & Notebook](https://github.com/olivierpi974/shipvision_lewagon_backend))  
-📊 Technologies : Python, Scikit-Learn, pandas, Keras 
+### 🛰️ Object Detection by Computer Vision
+
+- **Goal**: Automatic detection of objects in satellite images
+- **Technologies**: Python, Scikit-Learn, Pandas, Keras
+- **Description**: Developed a model to identify and classify objects in satellite imagery, enhancing automated analysis capabilities.
+- **Link**: [Code & Notebook](#)
+
+## 📊 GitHub Stats
 
 ![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierpi974&show_icons=true&theme=radical)
 
+## 📫 Contact Me
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/opcd)
+- **Email**: [your.email@example.com](mailto:olivier.picaud@live.fr)
 
 
 <!---
