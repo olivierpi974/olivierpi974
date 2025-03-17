@@ -1,6 +1,6 @@
  👋 Hi, Welcome on my GitHub!
  
-  I am a wagon alumni recently completed data science bootcamp. I am working on hands-on projects to build my kwnoledge on this field. I am a wagon alumni. 
+  I am a wagon alumni recently completed data science | AI bootcamp. I am working on hands-on projects to build my kwnoledge on this field. 
   Transitioning from a dedicated science educator to a passionate data scientist,
   I bring a unique perspective that combines analytical rigor with effective communication.
 
