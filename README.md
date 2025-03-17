@@ -1,5 +1,5 @@
-- 👋 Hi, Welcome on my GitHub! I'am thrill about data science and data analyse.
-  I am working on hands-on projects to built my kwnoledge on this field.
+- 👋 Hi, Welcome on my GitHub! I'am thrilled about data science and data analyse.
+  I am working on hands-on projects to build my kwnoledge on this field.
 
   My main projects are:
   
