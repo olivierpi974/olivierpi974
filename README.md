@@ -1,5 +1,7 @@
 - 👋 Hi, Welcome on my GitHub! I'am thrilled about data science and data analyse.
   I am working on hands-on projects to build my kwnoledge on this field.
+  Transitioning from a dedicated science educator to a passionate data scientist,
+  I bring a unique perspective that combines analytical rigor with effective communication.
 
   My main projects are:
   
