@@ -15,8 +15,7 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Le_Wagon_logo.png" alt="Le Wagon" width="100"/>
-</p>
-
+</p
 - ![Le Wagon](https://img.shields.io/badge/Le%20Wagon-FA2D48?style=for-the-badge)
   **[Le Wagon Data Science Bootcamp](https://www.lewagon.com/data-science-course)**  
   📍 Focus on Python,SQL, Machine Learning, Deep learning
