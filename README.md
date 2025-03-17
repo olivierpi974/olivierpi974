@@ -1,6 +1,6 @@
  👋 Hi, Welcome on my GitHub!
  
-  I am working on hands-on projects to build my kwnoledge on this field.
+  I am working on hands-on projects to build my kwnoledge on this field. I am wagon alumn
   Transitioning from a dedicated science educator to a passionate data scientist,
   I bring a unique perspective that combines analytical rigor with effective communication.
 
@@ -11,6 +11,24 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## 🎓 Certifications & Education
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Le_Wagon_logo.png" alt="Le Wagon" width="100"/>
+</p>
+
+- ![Le Wagon](https://img.shields.io/badge/Le%20Wagon-FA2D48?style=for-the-badge)
+  **[Le Wagon Data Science Bootcamp](https://www.lewagon.com/data-science-course)**  
+  📍 Focus on Python,SQL, Machine Learning, Deep learning
+  📆 September 2024  
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Cloud_Logo.png" alt="Google" width="100"/>
+</p>
+
+
+
+  
   My main projects are:
   
   ### 🖼️Object detection by comptuter vision
