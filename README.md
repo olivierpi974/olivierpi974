@@ -10,6 +10,8 @@
   🔗 [Code & Notebook](https://github.com/olivierpi974/shipvision_lewagon_backend))  
 📊 Technologies : Python, Scikit-Learn, pandas, Keras 
 
+![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierpi974&show_icons=true&theme=radical)
+
 
 
 <!---
