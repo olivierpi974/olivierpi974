@@ -30,8 +30,8 @@ I am a Le Wagon alumnus who recently completed a Data Science | AI bootcamp. I a
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/opcd)
-- **Email**: [your.email@example.com](mailto:olivier.picaud@live.fr)
+- **LinkedIn**: (https://www.linkedin.com/in/opcd)
+- **Email**: (mailto:olivier.picaud@live.fr)
 
 
 <!---
