@@ -22,7 +22,7 @@ I am a Le Wagon alumnus who recently completed a Data Science | AI bootcamp. I a
 - **Goal**: Automatic detection of objects in satellite images
 - **Technologies**: Python, Scikit-Learn, Pandas, Keras
 - **Description**: Developed a model to identify and classify objects in satellite imagery, enhancing automated analysis capabilities.
-- **Link**: [Code & Notebook](#)
+- **Link**: [Code & Notebook](https://github.com/olivierpi974/shipvision_lewagon_backend)
 
 ## 📊 GitHub Stats
 
