@@ -9,13 +9,14 @@ I am a Le Wagon alumnus who completed a Data Science | AI bootcamp and and inten
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 🎓 Certifications & Education
-
+## 🎓 Education & Certifications
+- **Master's in Physical Chemistry** — [Université], [année]
+- **Data Engineering, TechnofuturTIC**  
+  Focus: ETL, Medallion architecture, Business Intelligence
 - **Le Wagon Data Science Bootcamp**  
-  Focus on data visualization, Python, SQL, Machine Learning, Deep Learning  
-  Completed in September 2024
+  Focus: data visualization, Python, SQL, Machine Learning, Deep Learning — September 2024
+- **PL-300 (Power BI Data Analyst)** — In progress
   
-- **Data engineering TECHNOFUTUR TIC** 
 ## 📝 Main Projects
 ### 🏭 Belgian Industrial CO2 Monitor
 - **Goal**: End-to-end pipeline delivering insights into CO2 emission trends across Belgian industrial sites
