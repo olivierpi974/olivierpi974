@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I am a Le Wagon alumnus who recently completed a Data Science | AI bootcamp. I am working on hands-on projects to build my knowledge in this field. Transitioning from a dedicated science educator to a passionate data scientist, I bring a unique perspective that combines analytical rigor with effective communication.
+I am a Le Wagon alumnus who completed a Data Science | AI bootcamp and and intensive training in data engineering. I am working on hands-on projects to build my knowledge in this field. Transitioning from a dedicated science educator to a passionate data engineer, I bring a unique perspective that combines analytical rigor with effective communication.
 
 ## 🛠️ Tech Stack
 
@@ -14,8 +14,16 @@ I am a Le Wagon alumnus who recently completed a Data Science | AI bootcamp. I a
 - **Le Wagon Data Science Bootcamp**  
   Focus on data visualization, Python, SQL, Machine Learning, Deep Learning  
   Completed in September 2024
-
+  
+- **Data engineering TECHNOFUTUR TIC** 
 ## 📝 Main Projects
+### 🏭 Belgian Industrial CO2 Monitor
+- **Goal**: End-to-end pipeline delivering insights into CO2 emission trends across Belgian industrial sites
+- **Technologies**: Python, PostgreSQL, Power BI
+- **Description**: Medallion architecture (Bronze → Silver → Gold) pipeline transforming raw E-PRTR data into business-ready analytics
+- **Link**:[Code](https://github.com/olivierpi974/CO2_monitoring)
+
+
 
 ### 🛰️ Object Detection by Computer Vision
 
@@ -24,9 +32,8 @@ I am a Le Wagon alumnus who recently completed a Data Science | AI bootcamp. I a
 - **Description**: Developed a model to identify and classify objects in satellite imagery, enhancing automated analysis capabilities.
 - **Link**: [Code & Notebook](https://github.com/olivierpi974/shipvision_lewagon_backend)
 
-## 📊 GitHub Stats
 
-![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierpi974&show_icons=true&theme=radical)
+
 
 ## 📫 Contact Me
 
