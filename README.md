@@ -21,7 +21,7 @@ I am a Le Wagon alumnus who completed a Data Science | AI bootcamp and and inten
 - **Goal**: End-to-end pipeline delivering insights into CO2 emission trends across Belgian industrial sites
 - **Technologies**: Python, PostgreSQL, Power BI
 - **Description**: Medallion architecture (Bronze → Silver → Gold) pipeline transforming raw E-PRTR data into business-ready analytics
-- **Link**:[Code](https://github.com/olivierpi974/CO2_monitoring)
+- **Link**:[Code](https://github.com/olivierpi974/belgian-environement-monitor)
 
 
 
